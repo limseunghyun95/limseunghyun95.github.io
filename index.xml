@@ -1,92 +1,70 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
     <channel>
-        <title>Lim&#39;s Space</title>
-        <link>http://limseunghyun95.github.io/</link>
-        <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>ko</language><managingEditor>limseunghyun95@gmail.com (임승현)</managingEditor>
-            <webMaster>limseunghyun95@gmail.com (임승현)</webMaster><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate>
-            <atom:link href="http://limseunghyun95.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Theme Documentation - Basics</title>
-    <link>http://limseunghyun95.github.io/posts/theme-documentation-basics/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://limseunghyun95.github.io/posts/theme-documentation-basics/</guid>
-    <description><![CDATA[<p>Discover what the Hugo - <strong>LoveIt</strong> theme is all about and the core-concepts behind it.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - Content</title>
-    <link>http://limseunghyun95.github.io/posts/theme-documentation-content/</link>
-    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://limseunghyun95.github.io/posts/theme-documentation-content/</guid>
-    <description><![CDATA[<p>Find out how to create and organize your content quickly and intuitively in <strong>LoveIt</strong> theme.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - Built-in Shortcodes</title>
-    <link>http://limseunghyun95.github.io/posts/theme-documentation-built-in-shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://limseunghyun95.github.io/posts/theme-documentation-built-in-shortcodes/</guid>
-    <description><![CDATA[<p><strong>Hugo</strong> provides multiple built-in shortcodes for author convenience and to keep your markdown content clean.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - Extended Shortcodes</title>
-    <link>http://limseunghyun95.github.io/posts/theme-documentation-extended-shortcodes/</link>
-    <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://limseunghyun95.github.io/posts/theme-documentation-extended-shortcodes/</guid>
-    <description><![CDATA[<p><strong>LoveIt</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>]]></description>
-</item>
-<item>
-    <title>Basic Markdown Syntax</title>
-    <link>http://limseunghyun95.github.io/posts/basic-markdown-syntax/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://limseunghyun95.github.io/posts/basic-markdown-syntax/</guid>
-    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - mermaid Shortcode</title>
-    <link>http://limseunghyun95.github.io/posts/theme-documentation-mermaid-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 15:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://limseunghyun95.github.io/posts/theme-documentation-mermaid-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.11" rel="noopener noreffer" target="_blank"></a>
-<p>The <code>mermaid</code> shortcode supports diagrams in Hugo with <a href="https://mermaidjs.github.io/" target="_blank" rel="noopener noreffer ">Mermaid</a> library.</p>]]></description>
-</item>
-<item>
-    <title>Emoji Support</title>
-    <link>http://limseunghyun95.github.io/posts/emoji-support/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://limseunghyun95.github.io/posts/emoji-support/</guid>
-    <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - echarts Shortcode</title>
-    <link>http://limseunghyun95.github.io/posts/theme-documentation-echarts-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 14:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://limseunghyun95.github.io/posts/theme-documentation-echarts-shortcode/</guid>
-    <description><![CDATA[<p>The <code>echarts</code> shortcode supports data visualization in Hugo with <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreffer ">ECharts</a> library.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - mapbox Shortcode</title>
-    <link>http://limseunghyun95.github.io/posts/theme-documentation-mapbox-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 13:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://limseunghyun95.github.io/posts/theme-documentation-mapbox-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
-<p>The <code>mapbox</code> shortcode supports interactive maps in Hugo with <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer ">Mapbox GL JS</a> library.</p>]]></description>
-</item>
-<item>
-    <title>Theme Documentation - music Shortcode</title>
-    <link>http://limseunghyun95.github.io/posts/theme-documentation-music-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 12:29:41 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>http://limseunghyun95.github.io/posts/theme-documentation-music-shortcode/</guid>
-    <description><![CDATA[<p>The <code>music</code> shortcode embeds a responsive music player based on <a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreffer ">APlayer</a> and <a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreffer ">MetingJS</a>.</p>]]></description>
-</item>
-</channel>
-</rss>
+      <title>Dairy</title>
+      <link>https://limseunghyun95.github.io</link>
+      <description>Last 10 notes on Dairy</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>여행</title>
+    <link>https://limseunghyun95.github.io/tags/%EC%97%AC%ED%96%89</link>
+    <guid>https://limseunghyun95.github.io/tags/%EC%97%AC%ED%96%89</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 04 Nov 2026 06:54:18 GMT</pubDate>
+  </item><item>
+    <title>계획</title>
+    <link>https://limseunghyun95.github.io/tags/%EA%B3%84%ED%9A%8D</link>
+    <guid>https://limseunghyun95.github.io/tags/%EA%B3%84%ED%9A%8D</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 04 Nov 2026 06:54:18 GMT</pubDate>
+  </item><item>
+    <title>일상</title>
+    <link>https://limseunghyun95.github.io/tags/%EC%9D%BC%EC%83%81</link>
+    <guid>https://limseunghyun95.github.io/tags/%EC%9D%BC%EC%83%81</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 04 Nov 2026 06:54:18 GMT</pubDate>
+  </item><item>
+    <title>데이터</title>
+    <link>https://limseunghyun95.github.io/tags/%EB%8D%B0%EC%9D%B4%ED%84%B0</link>
+    <guid>https://limseunghyun95.github.io/tags/%EB%8D%B0%EC%9D%B4%ED%84%B0</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 04 Nov 2026 06:54:18 GMT</pubDate>
+  </item><item>
+    <title>sql</title>
+    <link>https://limseunghyun95.github.io/tags/sql</link>
+    <guid>https://limseunghyun95.github.io/tags/sql</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 04 Nov 2026 06:54:18 GMT</pubDate>
+  </item><item>
+    <title>운영</title>
+    <link>https://limseunghyun95.github.io/tags/%EC%9A%B4%EC%98%81</link>
+    <guid>https://limseunghyun95.github.io/tags/%EC%9A%B4%EC%98%81</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 04 Nov 2026 06:54:18 GMT</pubDate>
+  </item><item>
+    <title>시작</title>
+    <link>https://limseunghyun95.github.io/tags/%EC%8B%9C%EC%9E%91</link>
+    <guid>https://limseunghyun95.github.io/tags/%EC%8B%9C%EC%9E%91</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 04 Nov 2026 06:54:18 GMT</pubDate>
+  </item><item>
+    <title>태그 목록</title>
+    <link>https://limseunghyun95.github.io/tags/</link>
+    <guid>https://limseunghyun95.github.io/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Wed, 04 Nov 2026 06:54:18 GMT</pubDate>
+  </item><item>
+    <title>Dairy</title>
+    <link>https://limseunghyun95.github.io/dairy/</link>
+    <guid>https://limseunghyun95.github.io/dairy/</guid>
+    <description><![CDATA[ 공부와 일상을 담은 문서 모음 ]]></description>
+    <pubDate>Tue, 03 Nov 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>개인 기록</title>
+    <link>https://limseunghyun95.github.io/dairy/%EA%B0%9C%EC%9D%B8-%EA%B8%B0%EB%A1%9D/</link>
+    <guid>https://limseunghyun95.github.io/dairy/%EA%B0%9C%EC%9D%B8-%EA%B8%B0%EB%A1%9D/</guid>
+    <description><![CDATA[ 하루의 생각과 다음 계획을 모아둡니다. ]]></description>
+    <pubDate>Tue, 03 Nov 2026 15:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
